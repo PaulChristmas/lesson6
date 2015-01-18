@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="add_feed_dialog_title">New feed</string>
+    <string name="add_feed_dialog_btn">Add</string>
+    <string name="dialog_url_hint">URL</string>
+    <string name="dialog_name_hint">NAME</string>
+    <string name="feeds_empty_msg">No content. Press New to add something</string>
+    <string name="posts_empty_msg">Loading...</string>
+    <string name="posts_no_posts_msg">Nothing is available</string>
+    <string name="app_name">Reader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="show_article_html"><![CDATA[<br><a href=\"javascript:void(0)\" onclick=\"%1$s.showArticle(%2$d)\">more&hellip;</a>]]></string>
+    <string name="posts_activity_title">Posts</string>
+    <string name="web_activity_title">Full Article</string>
+    <string name="new_feed_btn"> New </string>
+
+</resources>
